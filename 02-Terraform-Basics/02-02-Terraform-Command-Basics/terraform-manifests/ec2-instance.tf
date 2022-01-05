@@ -6,7 +6,7 @@ terraform {
       #version = "~> 3.21" # Optional but recommended in production
     }
   }
-}
+} # Test
 
 # Provider Block
 provider "aws" {
